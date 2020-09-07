@@ -1,4 +1,7 @@
-# Programming
+<h1 align="center">
+	Learn📚 | Explore🌏 | Programming👨‍💻 | Automation🚀 
+</h1>
+
 <!-- BLOG-POST-LIST:START -->
 - [Collecting Fake Profiles on LinkedIn](https://matrixread.com/collecting-fake-profiles-on-linkedin/)
 - [How I made 5 Selenium Bots](https://matrixread.com/how-i-made-5-selenium-bots/)
