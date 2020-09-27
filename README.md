@@ -3,6 +3,7 @@
 </h1>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Android App Projects for Beginners](https://matrixread.com/5-android-app-projects-for-beginners/)
 - [I made a 5KB Flutter App](https://matrixread.com/i-made-a-5kb-flutter-app/)
 - [4 Best and Free Screen Recorder for PC](https://matrixread.com/4-best-and-free-screen-recorder-for-pc/)
 - [Collecting Fake Profiles on LinkedIn](https://matrixread.com/collecting-fake-profiles-on-linkedin/)
