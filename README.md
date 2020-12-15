@@ -1,6 +1,5 @@
-<h1 align="center">
-	Learn📚 | Explore🌏 | Programming👨‍💻 | Automation🚀 
-</h1>
+# Learn📚 | Explore🌏 | Programming👨‍💻 | Automation🚀 
+***
 
 <!-- BLOG-POST-LIST:START -->
 - [5 Android App Projects for Beginners](https://matrixread.com/5-android-app-projects-for-beginners/)
@@ -12,3 +11,5 @@
 - [How to view GitHub Commits in 3D](https://matrixread.com/how-to-view-github-commits-in-3d/)
 - [8 Best VS Code Extensions to Improve your Productivity](https://matrixread.com/best-vs-code-extension/)
 <!-- BLOG-POST-LIST:END -->
+
+***
